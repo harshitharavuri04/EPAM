@@ -29,3 +29,16 @@ h6 {
     color: #34495e;
     margin: 10px 0;
 }
+
+/* Paragraphs */
+p {
+    margin-bottom: 15px;
+}
+
+p strong {
+    color: #e74c3c;
+}
+
+p em {
+    color: #3498db;
+}
