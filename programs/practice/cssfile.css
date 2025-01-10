@@ -42,3 +42,14 @@ p strong {
 p em {
     color: #3498db;
 }
+
+/* Links */
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e74c3c;
+    text-decoration: underline;
+}
